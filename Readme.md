@@ -49,7 +49,7 @@ Update the face loading logic in facerecog.py with new names/images.
 '''
 
 🙋‍♂️ Author
-Gowtham Ramakrishna Rayapureddi
+Kapilavai Ram Charan
 
 📜 License
 MIT License – free to use and modify.
